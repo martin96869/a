@@ -910,3 +910,15 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [01Aug2025 13:23:30.324] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: martin345 has reached the goal [Terrible Armor]
 [01Aug2025 13:24:45.017] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: martin345 has made the advancement [Cover Me with Diamonds]
 [01Aug2025 13:24:52.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: martin345 has made the advancement [Suit Up]
+[01Aug2025 13:25:59.200] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: martin345 has reached the goal [Three-Bolt Suit]
+[01Aug2025 13:26:21.946] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Aug2025 13:26:21.953] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Aug2025 13:27:48.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: martin345 has completed the challenge [The Dead Sea]
+[01Aug2025 13:28:49.748] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: martin345 has made the advancement [Broken Parts III]
+[01Aug2025 13:28:50.787] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: martin345 has made the advancement [Broken Parts II]
+[01Aug2025 13:28:52.110] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: martin345 has made the advancement [Broken Parts I]
+[01Aug2025 13:29:17.779] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: martin345 lost connection: Timed out
+[01Aug2025 13:29:17.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: martin345 left the game
+[01Aug2025 13:29:17.829] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Aug2025 13:31:21.969] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Aug2025 13:31:21.974] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

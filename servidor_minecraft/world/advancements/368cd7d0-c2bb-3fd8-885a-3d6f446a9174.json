@@ -1,4 +1,130 @@
 {
+  "aquamirae:adventure/obtain_frozen_key": {
+    "criteria": {
+      "frozen_key": "2025-08-01 13:27:48 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/three_bolt_helmet": {
+    "criteria": {
+      "has_item": "2025-08-01 13:25:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_boots": "2025-08-01 13:24:52 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/lower_bone_staff": {
+    "criteria": {
+      "lower_bone_staff": "2025-08-01 13:28:52 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/advanced_deposit_upgrade": {
+    "criteria": {
+      "has_deposit_upgrade": "2025-08-01 13:28:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-08-01 13:26:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-08-01 13:24:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-08-01 13:24:45 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/upper_bone_staff": {
+    "criteria": {
+      "upper_bone_staff": "2025-08-01 13:28:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-08-01 13:24:52 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-08-01 13:22:55 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/white_bone_staff": {
+    "criteria": {
+      "white_bone_staff": "2025-08-01 13:22:46 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/terrible_armor": {
+    "criteria": {
+      "terrible_armor": "2025-08-01 13:23:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-08-01 13:26:37 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-08-01 13:22:55 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/ship_graveyard_echo": {
+    "criteria": {
+      "has_item": "2025-08-01 13:27:48 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/middle_bone_staff": {
+    "criteria": {
+      "middle_bone_staff": "2025-08-01 13:28:50 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/three_bolt_armor": {
+    "criteria": {
+      "three_bolt_armor": "2025-08-01 13:25:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-08-01 13:26:36 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/oxygen_tank": {
+    "criteria": {
+      "has_item": "2025-08-01 13:27:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_boots": "2025-08-01 13:24:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:desert": "2025-08-01 13:19:47 +0000"
